@@ -1,0 +1,7 @@
+# Example Zumper search URLs -- any of these (or a URL with your own
+# city/price/bed filters) can be dropped into settings.SEARCH_URL or pasted
+# into the "Zumper search URL" box in the demo app.
+
+https://www.zumper.com/apartments-for-rent/brooklyn-ny?priceMin=2000&priceMax=3500&bedrooms=1
+https://www.zumper.com/apartments-for-rent/austin-tx?priceMin=1200&priceMax=2200&bedrooms=1
+https://www.zumper.com/apartments-for-rent/denver-co?priceMin=1500&priceMax=2800&bedrooms=2
